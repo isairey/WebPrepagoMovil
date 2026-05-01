@@ -67,29 +67,49 @@ La aplicación está construida con **TypeScript, HTML y CSS**, ofreciendo una i
  ┃ ┗ 📂 images
  ┣ 📜 index.html
  ┗ 📜 README.md
-🧪 Uso
+```
+
+---
+
+## 🧪 Uso
 # Clonar repositorio
+```
 git clone https://github.com/tu-usuario/app-prepago.git
-
+```
 # Entrar al proyecto
+```
 cd app-prepago
-
+```
 # Compilar TypeScript (si aplica)
+```
 tsc
-
+```
 # Abrir en navegador
+```
 index.html
-⚙️ Funcionalidades
-Interacción dinámica con TypeScript
-Simulación de recargas
-Gestión básica de datos en el cliente
-📈 Estado del Proyecto
+```
+
+---
+
+## ⚙️ Funcionalidades
+
+- Interacción dinámica con TypeScript
+- Simulación de recargas
+- Gestión básica de datos en el cliente
+
+---
+
+## 📈 Estado del Proyecto
 
 🟢 Funcional / En desarrollo continuo
 
-👨‍💻 Autor
+---
 
-Isai Reyes
+## 👨‍💻 Autor
+
+**Isai Reyes**
+
+---
 
 📄 Licencia
 
