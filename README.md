@@ -74,11 +74,11 @@ La aplicación está construida con **TypeScript, HTML y CSS**, ofreciendo una i
 ## 🧪 Uso
 # Clonar repositorio
 ```
-git clone https://github.com/tu-usuario/app-prepago.git
+git clone https://github.com/isairey/WebPrepagoMovil.git
 ```
 # Entrar al proyecto
 ```
-cd app-prepago
+cd WebPrepagoMovil
 ```
 # Compilar TypeScript (si aplica)
 ```
